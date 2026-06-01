@@ -1,20 +1,7 @@
 # Mohammed Tahir Siddique
 
-<blockquote>
-<strong>Architecture Thesis:</strong><br>
-"I build things that run things. Systems design, AI infrastructure, and the operational layer between code and production."
-</blockquote>
-
-<pre>
-$ systemctl status developer-profile
-
-🟢 tahir-siddique.service - Core Engine
-   🟢 Stack:      Python // JavaScript // FastAPI // Redis // Docker // RAG
-   🟢 Projects:   [Vesper]    7-layer orchestration framework for AI agent fleets.
-                  [Forge]     One-command full-stack deployment pipeline CLI.
-                  [Nano PESU] RAG Chatbot for PES University students.
-   🟢 Experience: [GoSquad] Multi-stage RAG engine & adaptive AI tutor systems.
-</pre>
+## ⚡ Mission
+> **I build things that run things.** Systems design, AI infrastructure, and the operational layer between code and production.
 
 ---
 
